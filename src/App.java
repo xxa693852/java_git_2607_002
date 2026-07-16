@@ -3,5 +3,7 @@ public class App {
         System.out.println("Hello, World!");
 
         System.out.println("main-update-#1-#2-#3");
+
+        System.out.println("admin-update-#1-#2");
     }
 }
